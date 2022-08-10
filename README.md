@@ -18,3 +18,4 @@ The mesh before voxelization.
 The mesh after voxelization.
 
 ![After voxelization](./Media/AfterVoxelization.jfif)
+...
